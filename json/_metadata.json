@@ -1,9 +1,9 @@
 {
-  "name": "Dmitry #1",
-  "description": "Dmitry | Это я",
+  "name": "Ближний круг #1",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/0.jpg",
   "edition": 0,
-  "date": 1777009747999,
+  "date": 1777015206999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "name",
-      "value": "Это я"
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
     }
   ],
   "buttons": [
@@ -23,19 +23,19 @@
   "compiler": "HashLips Art Engine"
 },
 {
-  "name": "Kitty #2",
-  "description": "Kitty | Котенок",
+  "name": "Ближний круг #2",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/1.jpg",
   "edition": 1,
-  "date": 1777009747999,
+  "date": 1777015206999,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "name",
-      "value": "Котенок"
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
     }
   ],
   "buttons": [
@@ -47,11 +47,203 @@
   "compiler": "HashLips Art Engine"
 },
 {
-  "name": "Kinder with TR #3",
-  "description": "Kinder with TR | Ребенок с динозавром",
+  "name": "Ближний круг #3",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/2.jpg",
   "edition": 2,
-  "date": 1777009748999,
+  "date": 1777015206999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #4",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/3.jpg",
+  "edition": 3,
+  "date": 1777015207999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #5",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/4.jpg",
+  "edition": 4,
+  "date": 1777015207999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #6",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/5.jpg",
+  "edition": 5,
+  "date": 1777015207999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #7",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/6.jpg",
+  "edition": 6,
+  "date": 1777015208999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #8",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/7.jpg",
+  "edition": 7,
+  "date": 1777015208999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #9",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/8.jpg",
+  "edition": 8,
+  "date": 1777015208999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Ближний круг #10",
+  "description": "Ближний круг | Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/9.jpg",
+  "edition": 9,
+  "date": 1777015209999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Каждый понедельник на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #11",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/10.jpg",
+  "edition": 10,
+  "date": 1777015209999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -59,7 +251,943 @@
     },
     {
       "trait_type": "name",
-      "value": "Ребенок с динозавром"
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #12",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/11.jpg",
+  "edition": 11,
+  "date": 1777015209999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #13",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/12.jpg",
+  "edition": 12,
+  "date": 1777015210999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #14",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/13.jpg",
+  "edition": 13,
+  "date": 1777015210999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #15",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/14.jpg",
+  "edition": 14,
+  "date": 1777015210999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #16",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/15.jpg",
+  "edition": 15,
+  "date": 1777015210999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #17",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/16.jpg",
+  "edition": 16,
+  "date": 1777015211999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #18",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/17.jpg",
+  "edition": 17,
+  "date": 1777015211999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #19",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/18.jpg",
+  "edition": 18,
+  "date": 1777015211999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #20",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/19.jpg",
+  "edition": 19,
+  "date": 1777015212999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #21",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/20.jpg",
+  "edition": 20,
+  "date": 1777015212999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #22",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/21.jpg",
+  "edition": 21,
+  "date": 1777015212999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #23",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/22.jpg",
+  "edition": 22,
+  "date": 1777015213999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #24",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/23.jpg",
+  "edition": 23,
+  "date": 1777015213999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #25",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/24.jpg",
+  "edition": 24,
+  "date": 1777015213999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #26",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/25.jpg",
+  "edition": 25,
+  "date": 1777015214999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #27",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/26.jpg",
+  "edition": 26,
+  "date": 1777015214999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #28",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/27.jpg",
+  "edition": 27,
+  "date": 1777015214999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #29",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/28.jpg",
+  "edition": 28,
+  "date": 1777015215999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #30",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/29.jpg",
+  "edition": 29,
+  "date": 1777015215999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #31",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/30.jpg",
+  "edition": 30,
+  "date": 1777015215999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #32",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/31.jpg",
+  "edition": 31,
+  "date": 1777015216999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #33",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/32.jpg",
+  "edition": 32,
+  "date": 1777015216999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #34",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/33.jpg",
+  "edition": 33,
+  "date": 1777015216999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #35",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/34.jpg",
+  "edition": 34,
+  "date": 1777015217999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #36",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/35.jpg",
+  "edition": 35,
+  "date": 1777015217999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #37",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/36.jpg",
+  "edition": 36,
+  "date": 1777015217999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #38",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/37.jpg",
+  "edition": 37,
+  "date": 1777015217999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #39",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/38.jpg",
+  "edition": 38,
+  "date": 1777015218999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #40",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/39.jpg",
+  "edition": 39,
+  "date": 1777015218999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #41",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/40.jpg",
+  "edition": 40,
+  "date": 1777015218999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #42",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/41.jpg",
+  "edition": 41,
+  "date": 1777015219999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #43",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/42.jpg",
+  "edition": 42,
+  "date": 1777015219999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #44",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/43.jpg",
+  "edition": 43,
+  "date": 1777015219999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #45",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/44.jpg",
+  "edition": 44,
+  "date": 1777015220999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #46",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/45.jpg",
+  "edition": 45,
+  "date": 1777015220999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #47",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/46.jpg",
+  "edition": 46,
+  "date": 1777015220999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #48",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/47.jpg",
+  "edition": 47,
+  "date": 1777015220999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #49",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/48.jpg",
+  "edition": 48,
+  "date": 1777015221999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "Круг друзей #50",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/49.jpg",
+  "edition": 49,
+  "date": 1777015221999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
     }
   ],
   "buttons": [

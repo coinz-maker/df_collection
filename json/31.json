@@ -1,0 +1,24 @@
+{
+  "name": "Круг друзей #32",
+  "description": "Круг друзей | «Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/31.jpg",
+  "edition": 31,
+  "date": 1777015216999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Каждый понедельник на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle."
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
