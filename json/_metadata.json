@@ -1,9 +1,9 @@
 {
   "name": "Dmitry #1",
-  "description": "Dmitry Это я with symbolname symbol",
+  "description": "Dmitry | Это я",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/0.jpg",
   "edition": 0,
-  "date": 1777007457999,
+  "date": 1777009747999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -24,10 +24,10 @@
 },
 {
   "name": "Kitty #2",
-  "description": "Kitty Котенок with symbolname symbol",
+  "description": "Kitty | Котенок",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/1.jpg",
   "edition": 1,
-  "date": 1777007457999,
+  "date": 1777009747999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -48,10 +48,10 @@
 },
 {
   "name": "Kinder with TR #3",
-  "description": "Kinder with TR Ребенок с динозавром with symbolname symbol",
+  "description": "Kinder with TR | Ребенок с динозавром",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/2.jpg",
   "edition": 2,
-  "date": 1777007457999,
+  "date": 1777009748999,
   "attributes": [
     {
       "trait_type": "Rarity",
