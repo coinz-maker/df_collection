@@ -1,0 +1,24 @@
+{
+  "name": "Dmitry #1",
+  "description": "Dmitry Это я with symbolname symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/0.jpg",
+  "edition": 0,
+  "date": 1777007324999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "name",
+      "value": "Это я"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

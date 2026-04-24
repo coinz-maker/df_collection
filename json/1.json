@@ -1,0 +1,24 @@
+{
+  "name": "Kitty #2",
+  "description": "Kitty Котенок with symbolname symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/1.jpg",
+  "edition": 1,
+  "date": 1777007324999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "name",
+      "value": "Котенок"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/Dmitrys_friendss"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
