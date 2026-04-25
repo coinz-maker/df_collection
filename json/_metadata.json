@@ -1203,7 +1203,7 @@
   "description": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Раз в неделю на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/50.jpg",
   "edition": 50,
-  "date": 1777094254999,
+  "date": 1777095960999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -1227,7 +1227,7 @@
   "description": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Раз в неделю на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/51.jpg",
   "edition": 51,
-  "date": 1777094254999,
+  "date": 1777095961999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -1251,7 +1251,7 @@
   "description": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Раз в неделю на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/52.jpg",
   "edition": 52,
-  "date": 1777094255999,
+  "date": 1777095961999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -1275,7 +1275,7 @@
   "description": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Раз в неделю на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/53.jpg",
   "edition": 53,
-  "date": 1777094255999,
+  "date": 1777095961999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -1299,7 +1299,7 @@
   "description": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Раз в неделю на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/54.jpg",
   "edition": 54,
-  "date": 1777094255999,
+  "date": 1777095961999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -1319,35 +1319,11 @@
   "compiler": "HashLips Art Engine"
 },
 {
-  "name": "Круг друзей #56",
-  "description": "«Ты в кругу Дмитрия». Эта NFT — знак того, что ты здесь не случайно. Раз в неделю на твой счёт приходят жеттоны. Доход получают все друзья — без исключений. Оставайся с нами, и поток будет только расти. Welcome to the circle.",
+  "name": "Ближний круг #56",
+  "description": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Раз в неделю на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
   "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/55.jpg",
   "edition": 55,
-  "date": 1777094255999,
-  "attributes": [
-    {
-      "trait_type": "Rarity",
-      "value": "Common"
-    },
-    {
-      "trait_type": "name",
-      "value": "Круг друзей"
-    }
-  ],
-  "buttons": [
-      {
-        "label": "Чат",
-        "uri": "https://t.me/Dmitrys_friendss"
-      }
-  ],
-  "compiler": "HashLips Art Engine"
-},
-{
-  "name": "Ближний круг #57",
-  "description": "Ты входишь в эксклюзивный круг «Друзья Дмитрия». Эта NFT — твой пропуск в комьюнити, где дружба подкрепляется реальной выгодой. Раз в неделю на твой счет будут капать жеттоны. Чем активнее комьюнити — тем выше доход. Дмитрий ценит своих. Welcome to the circle.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/df_collection/refs/heads/main/imgs/56.jpg",
-  "edition": 56,
-  "date": 1777094256999,
+  "date": 1777095962999,
   "attributes": [
     {
       "trait_type": "Rarity",
